@@ -1,0 +1,11 @@
+Package: com.imkpatil.countmymessages
+Name: CountMyMessages
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A Simple tweak to count my Total messages!
+Maintainer: Kiran Patil
+Author: Kiran Patil
+Section: Tweaks
+Depiction: https://imkpatil.github.io/repo/depiction/CountMyMessages/index.html
+Icon: file:///Library/Application Support/CountMyMessages/icon.png
